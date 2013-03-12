@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SensorsProject</string>
+    <string name="action_settings">Settings</string>
+    <string name="qr_scan">Scan QR</string>
+    <string name="qr_generate">Generate QR</string>
+    <string name="x">X: </string>
+    <string name="y">Y: </string>
+    <string name="z">Z: </string>
+    <string name="done">Done</string>
+    <string name="linear_acc">Linear Acceleration</string>
+    <string name="azimuth">Azimuth</string>
+    <string name="azimuth_res">Azimuth:</string>
+    <string name="light">Light</string>
+    <string name="pressure">Pressure</string>
+    <string name="enter_your_string">Please enter your string:</string>
+    <string name="qr">QR ></string>
+
+</resources>
